@@ -1,0 +1,66 @@
+*{
+	margin: 10px 10px 10px 10px;
+
+}
+
+table{
+	border-radius: 10px;
+}
+
+.navbar-brand{
+    font-family:"Ubuntu",sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+
+.navbar #mymenu .custom-nav .nav-item a{
+	color: #ffffff;
+}
+
+navbar #mymenu .custom-nav .nav-item a:hover{
+	color: blue;
+}
+
+back-image{
+	background-size:cover;
+	min-height: 90vh;
+	background-position: center center;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	margin-top:74px;
+	border-radius: 10px;
+}
+
+.font-italic{
+	font-size:30px; 
+}
+
+.mainheading{
+	margin-top: 50px;
+}
+
+@media only screen and (max-width: 600px){
+.myclass{
+	margin-top: 350px;
+	text-align: center;
+	}	
+}
+
+i{
+	size: 50px;
+}
+
+.font-italic{
+	font-size: 25px;
+}
+
+
+form input{
+	border-radius: 5px;
+	margin:5px 5px 5px 5px;
+}
+
+a{
+	font-color: red;
+}
